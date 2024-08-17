@@ -1,0 +1,10 @@
+
+- https://legacy.reactjs.org/docs/hooks-reference.html#usecallback
+    - why use this?...
+
+- https://www.w3schools.com/react/react_router.asp
+    - router example (important, dont forget OUTLET !!)
+
+- https://stackoverflow.com/questions/31079081/how-to-programmatically-navigate-using-react-router
+    - navigate from button (in code)
+

@@ -6,7 +6,7 @@ export const WrapWithLoader = (ToWrap: any) => {
         setTimeout(() =>{
             setLoading(false);
         }, 2000);
-        console.log(props);
+        // console.log(props);
         return(
             <div>
                 {loading ? <p>Loading....</p> : <ToWrap />}
